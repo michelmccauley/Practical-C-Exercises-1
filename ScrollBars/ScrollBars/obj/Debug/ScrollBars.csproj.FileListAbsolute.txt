@@ -1,0 +1,9 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\bin\Debug\ScrollBars.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\bin\Debug\ScrollBars.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\bin\Debug\ScrollBars.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.frmScrollBars.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.Properties.Resources.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.csproj.GenerateResource.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\ScrollBars\ScrollBars\obj\Debug\ScrollBars.pdb

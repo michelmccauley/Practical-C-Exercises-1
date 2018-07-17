@@ -1,0 +1,9 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\bin\Debug\Menues.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\bin\Debug\Menues.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\bin\Debug\Menues.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.frmMenues.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.Properties.Resources.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.csproj.GenerateResource.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\Menues\Menues\obj\Debug\Menues.pdb

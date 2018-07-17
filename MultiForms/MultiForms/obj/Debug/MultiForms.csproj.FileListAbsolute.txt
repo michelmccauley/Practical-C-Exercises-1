@@ -1,0 +1,10 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\bin\Debug\MultiForms.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\bin\Debug\MultiForms.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\bin\Debug\MultiForms.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.frmGame.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.frmIntro.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.Properties.Resources.resources
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.csproj.GenerateResource.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Practical C# Exercises 1\MultiForms\MultiForms\obj\Debug\MultiForms.pdb
